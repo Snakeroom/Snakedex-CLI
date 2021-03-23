@@ -19,5 +19,10 @@
 	"bugs": {
 		"url": "https://github.com/Snakeroom/Snakedex-CLI/issues"
 	},
-	"homepage": "https://github.com/Snakeroom/Snakedex-CLI#readme"
+	"homepage": "https://github.com/Snakeroom/Snakedex-CLI#readme",
+	"dependencies": {
+		"@caporal/core": "^2.0.2",
+		"debug": "^4.3.1",
+		"got": "^11.8.2"
+	}
 }
