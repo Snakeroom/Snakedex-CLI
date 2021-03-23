@@ -1,0 +1,23 @@
+{
+	"name": "snakedex-cli",
+	"version": "1.0.0",
+	"description": "A CLI for viewing the Snakedex.",
+	"main": "./src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Snakeroom/Snakedex-CLI.git"
+	},
+	"keywords": [
+		"snakedex",
+		"cli"
+	],
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Snakeroom/Snakedex-CLI/issues"
+	},
+	"homepage": "https://github.com/Snakeroom/Snakedex-CLI#readme"
+}
